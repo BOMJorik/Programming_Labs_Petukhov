@@ -1,0 +1,15 @@
+D:\Programming\Console_Lab2\Console_Lab2\obj\Debug\net7.0\Console_Lab2.csproj.AssemblyReference.cache
+D:\Programming\Console_Lab2\Console_Lab2\obj\Debug\net7.0\Console_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Console_Lab2\Console_Lab2\obj\Debug\net7.0\Console_Lab2.AssemblyInfoInputs.cache
+D:\Programming\Console_Lab2\Console_Lab2\obj\Debug\net7.0\Console_Lab2.AssemblyInfo.cs
+D:\Programming\Console_Lab2\Console_Lab2\obj\Debug\net7.0\Console_Lab2.csproj.CoreCompileInputs.cache
+D:\Programming\Console_Lab2\Console_Lab2\bin\Debug\net7.0\Console_Lab2.exe
+D:\Programming\Console_Lab2\Console_Lab2\bin\Debug\net7.0\Console_Lab2.deps.json
+D:\Programming\Console_Lab2\Console_Lab2\bin\Debug\net7.0\Console_Lab2.runtimeconfig.json
+D:\Programming\Console_Lab2\Console_Lab2\bin\Debug\net7.0\Console_Lab2.dll
+D:\Programming\Console_Lab2\Console_Lab2\bin\Debug\net7.0\Console_Lab2.pdb
+D:\Programming\Console_Lab2\Console_Lab2\obj\Debug\net7.0\Console_Lab2.dll
+D:\Programming\Console_Lab2\Console_Lab2\obj\Debug\net7.0\refint\Console_Lab2.dll
+D:\Programming\Console_Lab2\Console_Lab2\obj\Debug\net7.0\Console_Lab2.pdb
+D:\Programming\Console_Lab2\Console_Lab2\obj\Debug\net7.0\Console_Lab2.genruntimeconfig.cache
+D:\Programming\Console_Lab2\Console_Lab2\obj\Debug\net7.0\ref\Console_Lab2.dll
